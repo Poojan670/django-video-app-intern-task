@@ -19,3 +19,6 @@
 
 **Run the django server**
     => _py manage.py runserver_
+
+
+***Thank YOU! ***
